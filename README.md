@@ -10,3 +10,5 @@ This repository has the following folders,
 Most folders have an additional sub-folder that's called experiments which contains notebooks used for the intermediate models generated.
 
 Additionally, there is the notebook model_comparison which describes synthetically some of the different network architectures that was explored.
+
+Note: the Training Altantis notebook is just a template for Training Treasure Planet, it has no ooutput.
