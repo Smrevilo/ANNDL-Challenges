@@ -8,3 +8,5 @@ This repository has the following folders,
 * Trainning: It has the notebooks used for trainning the best model (0.94 accuracy)
   
 Most folders have an additional sub-folder that's called experiments which contains notebooks used for the intermediate models generated.
+
+Additionally, there is the notebook model_comparison which describes synthetically some of the different network architectures that was explored.
